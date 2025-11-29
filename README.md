@@ -1,4 +1,4 @@
-# Predi-o-de-Diabetes-com-Machine-Learning
+# Predio de Diabetes com Machine Learning
 # 🩺 Diabetes Prediction Project
 
 Este repositório faz parte de um **projeto acadêmico da faculdade**, desenvolvido com o objetivo de aplicar conceitos de **Machine Learning** para a **previsão precoce de diabetes** a partir de dados clínicos reais e simulados.  
